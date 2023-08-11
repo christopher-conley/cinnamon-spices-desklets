@@ -1,0 +1,1119 @@
+# Swedish translation for bbcwx
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the bbcwx package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bbcwx\n"
+"Report-Msgid-Bugs-To: chris@oak-wood.co.uk\n"
+"POT-Creation-Date: 2018-01-07 21:05+0000\n"
+"PO-Revision-Date: 2023-04-16 07:22-0400\n"
+"Last-Translator: kristian <Unknown>\n"
+"Language-Team: Swedish <sv@li.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2016-08-01 19:04+0000\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: desklet.js:108
+msgid "Mon"
+msgstr "Mån"
+
+#: desklet.js:108
+msgid "Tue"
+msgstr "Tis"
+
+#: desklet.js:108
+msgid "Wed"
+msgstr "Ons"
+
+#: desklet.js:108
+msgid "Thu"
+msgstr "Tor"
+
+#: desklet.js:108
+msgid "Fri"
+msgstr "Fre"
+
+#: desklet.js:108
+msgid "Sat"
+msgstr "Lör"
+
+#: desklet.js:108
+msgid "Sun"
+msgstr "Sön"
+
+#: desklet.js:186
+msgid "Weather"
+msgstr "Väder"
+
+#: desklet.js:194
+msgid "Help"
+msgstr "Hjälp"
+
+#: desklet.js:198
+msgid "Translate"
+msgstr "Översätt"
+
+#: desklet.js:344 desklet.js:372
+msgid "Humidity:"
+msgstr "Luftfuktighet:"
+
+#: desklet.js:345 desklet.js:371
+msgid "Pressure:"
+msgstr "Lufttryck:"
+
+#: desklet.js:346
+msgid "Wind:"
+msgstr "Vind:"
+
+#: desklet.js:347
+msgid "Feels like:"
+msgstr "Känns som:"
+
+#: desklet.js:348
+msgid "Visibility:"
+msgstr "Sikt:"
+
+#: desklet.js:363
+msgid "Max:"
+msgstr "Max:"
+
+#: desklet.js:365
+msgid "Min:"
+msgstr "Min:"
+
+#: desklet.js:367
+msgid "Wind speed:"
+msgstr "Vindhastighet:"
+
+#: desklet.js:369
+msgid "Dir:"
+msgstr "Riktning:"
+
+#: desklet.js:411
+msgid "Data from "
+msgstr "Data från "
+
+#: desklet.js:423
+msgid "Refresh"
+msgstr "Uppdatera"
+
+#: desklet.js:744
+msgid "No data available"
+msgstr "Ingen data tillgänglig"
+
+#: desklet.js:777 desklet.js:844
+#, javascript-format
+msgid "Error: %s"
+msgstr "Fel: %s"
+
+#: desklet.js:777 desklet.js:844
+msgid "No data"
+msgstr "Ingen data"
+
+#: desklet.js:879
+#, javascript-format
+msgid "Click for the full forecast for %s"
+msgstr "Klicka för full prognos för %s"
+
+#: desklet.js:1139
+#, javascript-format
+msgid "%f°F"
+msgstr "%f°F"
+
+#: desklet.js:1141
+#, javascript-format
+msgid "%f°C"
+msgstr "%f°C"
+
+#: desklet.js:1162
+#, javascript-format
+msgid "%fmph"
+msgstr "%fmph"
+
+#: desklet.js:1164
+#, javascript-format
+msgid "%fkn"
+msgstr "%fkn"
+
+#: desklet.js:1166
+#, javascript-format
+msgid "%fkm/h"
+msgstr "%fkm/h"
+
+#: desklet.js:1168
+#, javascript-format
+msgid "%fm/s"
+msgstr "%fm/s"
+
+#: desklet.js:1202
+#, javascript-format
+msgid "%fmb"
+msgstr "%fmb"
+
+#: desklet.js:1204
+#, javascript-format
+msgid "%fin"
+msgstr "%ftum"
+
+#: desklet.js:1206
+#, javascript-format
+msgid "%fmm"
+msgstr "%fmm"
+
+#: desklet.js:1208
+#, javascript-format
+msgid "%fkPa"
+msgstr "%fkPa"
+
+#: desklet.js:1259
+#, javascript-format
+msgid "%fmi"
+msgstr "%fmi"
+
+#: desklet.js:1261
+#, javascript-format
+msgid "%fnmi"
+msgstr "%fnmi"
+
+#: desklet.js:1263
+#, javascript-format
+msgid "%fkm"
+msgstr "%fkm"
+
+#: desklet.js:1506
+msgid "N"
+msgstr "N"
+
+#: desklet.js:1506
+msgid "NNE"
+msgstr "NNO"
+
+#: desklet.js:1506
+msgid "NE"
+msgstr "NO"
+
+#: desklet.js:1506
+msgid "ENE"
+msgstr "ONO"
+
+#: desklet.js:1506
+msgid "E"
+msgstr "O"
+
+#: desklet.js:1506
+msgid "ESE"
+msgstr "OSO"
+
+#: desklet.js:1506
+msgid "SE"
+msgstr "SO"
+
+#: desklet.js:1506
+msgid "SSE"
+msgstr "SSO"
+
+#: desklet.js:1506
+msgid "S"
+msgstr "S"
+
+#: desklet.js:1506
+msgid "SSW"
+msgstr "SSV"
+
+#: desklet.js:1506
+msgid "SW"
+msgstr "SV"
+
+#: desklet.js:1506
+msgid "WSW"
+msgstr "VSV"
+
+#: desklet.js:1506
+msgid "W"
+msgstr "V"
+
+#: desklet.js:1506
+msgid "WNW"
+msgstr "VNV"
+
+#: desklet.js:1506
+msgid "NW"
+msgstr "NV"
+
+#: desklet.js:1506
+msgid "NNW"
+msgstr "NNV"
+
+#: desklet.js:1560
+msgid "Tornado"
+msgstr "Tromb"
+
+#: desklet.js:1561
+msgid "Tropical storm"
+msgstr "Tropisk storm"
+
+#: desklet.js:1562
+msgid "Hurricane"
+msgstr "Orkan"
+
+#: desklet.js:1563
+msgid "Severe thunderstorms"
+msgstr "Kraftiga åskväder"
+
+#: desklet.js:1564
+msgid "Thunderstorms"
+msgstr "Åska"
+
+#: desklet.js:1565 desklet.js:4240
+msgid "Mixed rain and snow"
+msgstr "Snöblandat regn"
+
+#: desklet.js:1566
+msgid "Mixed rain and sleet"
+msgstr "Regn och snöslask"
+
+#: desklet.js:1567
+msgid "Mixed snow and sleet"
+msgstr "Snö och snöslask"
+
+#: desklet.js:1568
+msgid "Freezing drizzle"
+msgstr "Underkylt duggregn"
+
+#: desklet.js:1569 desklet.js:1872
+msgid "Drizzle"
+msgstr "Duggregn"
+
+#: desklet.js:1570
+msgid "Freezing rain"
+msgstr "Underkylt regn"
+
+#: desklet.js:1571 desklet.js:1572 desklet.js:4236
+msgid "Showers"
+msgstr "Skurar"
+
+#: desklet.js:1573
+msgid "Snow flurries"
+msgstr "Snöbyar"
+
+#: desklet.js:1574
+msgid "Light snow showers"
+msgstr "Lätta snöbyar"
+
+#: desklet.js:1575
+msgid "Blowing snow"
+msgstr "Snöyra"
+
+#: desklet.js:1576 desklet.js:4238 desklet.js:4244
+msgid "Snow"
+msgstr "Snöfall"
+
+#: desklet.js:1577
+msgid "Hail"
+msgstr "Hagel"
+
+#: desklet.js:1578 desklet.js:1877
+msgid "Sleet"
+msgstr "Snöslask"
+
+#: desklet.js:1579
+msgid "Dust"
+msgstr "Damm"
+
+#: desklet.js:1580
+msgid "Foggy"
+msgstr "Dimmigt"
+
+#: desklet.js:1581
+msgid "Haze"
+msgstr "Dis"
+
+#: desklet.js:1582
+msgid "Smoky"
+msgstr "Rökigt"
+
+#: desklet.js:1583
+msgid "Blustery"
+msgstr "Vindbyar"
+
+#: desklet.js:1584
+msgid "Windy"
+msgstr "Blåsigt"
+
+#: desklet.js:1585
+msgid "Cold"
+msgstr "Kallt"
+
+#: desklet.js:1586 desklet.js:4233
+msgid "Cloudy"
+msgstr "Mulet"
+
+#: desklet.js:1587 desklet.js:1588
+msgid "Mostly cloudy"
+msgstr "Mestadels mulet"
+
+#: desklet.js:1589 desklet.js:1590 desklet.js:1604
+msgid "Partly cloudy"
+msgstr "Delvis mulet"
+
+#: desklet.js:1591
+msgid "Clear"
+msgstr "Klart"
+
+#: desklet.js:1592 desklet.js:1861
+msgid "Sunny"
+msgstr "Soligt"
+
+#: desklet.js:1593 desklet.js:1594 desklet.js:4231
+msgid "Fair"
+msgstr "Vackert"
+
+#: desklet.js:1595
+msgid "Mixed rain and hail"
+msgstr "Hagelblandat regn"
+
+#: desklet.js:1596
+msgid "Hot"
+msgstr "Mycket varmt"
+
+#: desklet.js:1597
+msgid "Isolated thunderstorms"
+msgstr "Lokala åsksbyar"
+
+#: desklet.js:1598
+msgid "Scattered thunderstorms"
+msgstr "Spridda åskbyar"
+
+#: desklet.js:1599 desklet.js:1600
+msgid "Scattered showers"
+msgstr "Spridda regnskurar"
+
+#: desklet.js:1601 desklet.js:1603
+msgid "Heavy snow"
+msgstr "Kraftigt snöfall"
+
+#: desklet.js:1602
+msgid "Scattered snow showers"
+msgstr "Spridda snöbyar"
+
+#: desklet.js:1605
+msgid "Thundershowers"
+msgstr "Åskskurar"
+
+#: desklet.js:1606 desklet.js:4239
+msgid "Snow showers"
+msgstr "Snöbyar"
+
+#: desklet.js:1607
+msgid "Isolated thundershowers"
+msgstr "Lokala åskskurar"
+
+#: desklet.js:1608
+msgid "Not available"
+msgstr "Ej tillgängligt"
+
+#: desklet.js:1860 desklet.js:4230
+msgid "Clear Sky"
+msgstr "Klar himmel"
+
+#: desklet.js:1862 desklet.js:4232
+msgid "Partly Cloudy"
+msgstr "Delvis mulet"
+
+#: desklet.js:1863
+msgid "Sunny Intervals"
+msgstr "Växlande molnighet"
+
+#: desklet.js:1864
+msgid "Sand Storm"
+msgstr "Sandstorm"
+
+#: desklet.js:1865
+msgid "Mist"
+msgstr "Fuktdis"
+
+#: desklet.js:1866 desklet.js:4234
+msgid "Fog"
+msgstr "Dimma"
+
+#: desklet.js:1867
+msgid "White Cloud"
+msgstr "Vita Moln"
+
+#: desklet.js:1868
+msgid "Light Cloud"
+msgstr "Lätta Moln"
+
+#: desklet.js:1869
+msgid "Grey Cloud"
+msgstr "Mörka Moln"
+
+#: desklet.js:1870
+msgid "Thick Cloud"
+msgstr "Tjocka Moln"
+
+#: desklet.js:1871
+msgid "Light Rain Shower"
+msgstr "Lätt Regnskur"
+
+#: desklet.js:1873 desklet.js:4241 desklet.js:4245
+msgid "Light Rain"
+msgstr "Lätt Regn"
+
+#: desklet.js:1874
+msgid "Heavy Rain Shower"
+msgstr "Kraftig Regnskur"
+
+#: desklet.js:1875 desklet.js:4235 desklet.js:4243
+msgid "Heavy Rain"
+msgstr "Kraftigt Regn"
+
+#: desklet.js:1876
+msgid "Sleet Shower"
+msgstr "Snöslask Skur"
+
+#: desklet.js:1878
+msgid "Light Snow Shower"
+msgstr "Lätt Snöfalls Skur"
+
+#: desklet.js:1879 desklet.js:4242 desklet.js:4246
+msgid "Light Snow"
+msgstr "Lätt Snöfall"
+
+#: desklet.js:1880
+msgid "Heavy Snow Shower"
+msgstr "Kraftig Snöfalls Skur"
+
+#: desklet.js:1881
+msgid "Heavy Snow"
+msgstr "Kraftigt Snöfall"
+
+#: desklet.js:1882 desklet.js:4237
+msgid "Thundery Shower"
+msgstr "Regnskur med Åska"
+
+#: desklet.js:1883
+msgid "Thunder Storm"
+msgstr "Åska"
+
+#: desklet.js:1884
+msgid "Thunderstorm"
+msgstr "Åskväder"
+
+#: desklet.js:1885
+msgid "Hazy"
+msgstr "Disigt"
+
+#: desklet.js:1886
+msgid "Hail Shower"
+msgstr "Hagel Skur"
+
+#: desklet.js:1887
+msgid "Rain"
+msgstr "Regn"
+
+#: desklet.js:2072 desklet.js:2800
+msgid "Steady"
+msgstr "Stabilt"
+
+#: desklet.js:2072 desklet.js:2796
+msgid "Rising"
+msgstr "Stigande"
+
+#: desklet.js:2072 desklet.js:2798
+msgid "Falling"
+msgstr "Fallande"
+
+#. metadata.json->description
+msgid "Display the weather from several web services on your desktop"
+msgstr "Visa en väderrapport från många olika webbtjänster på ditt skrivbord"
+
+#. metadata.json->name
+msgid "Weather Desklet"
+msgstr "Miniprogram för Väder"
+
+#. metadata.json->comments
+msgid ""
+"Please consider translating the Weather Desklet into your language. See the "
+"website for more information"
+msgstr ""
+
+#. metadata.json->contributors
+msgid "Chris Hastie"
+msgstr ""
+
+#. settings-schema.json->top->description
+msgid "Weather configuration"
+msgstr "Väderinställningar"
+
+#. settings-schema.json->webservice->description
+#. settings-schema.json->locsrc->options
+msgid "Data service"
+msgstr "Datatjänst"
+
+#. settings-schema.json->webservice->options
+msgid "BBC"
+msgstr "BBC"
+
+#. settings-schema.json->webservice->options
+#, fuzzy
+msgid "Open Weather Map (requires API key)"
+msgstr "World Weather Online (kräver API nyckel)"
+
+#. settings-schema.json->webservice->options
+#, fuzzy
+msgid "Open Weather Map Free (requires API key)"
+msgstr "World Weather Online (kräver API nyckel)"
+
+#. settings-schema.json->webservice->options
+msgid "Wunderground (requires API key)"
+msgstr "Wunderground (kräver API nyckel)"
+
+#. settings-schema.json->webservice->options
+#, fuzzy
+msgid "World Weather Online (deprecated) (requires API key)"
+msgstr "World Weather Online (kräver API nyckel)"
+
+#. settings-schema.json->webservice->options
+#, fuzzy
+msgid "World Weather Online Premium (requires API key)"
+msgstr "World Weather Online (kräver API nyckel)"
+
+#. settings-schema.json->webservice->options
+#, fuzzy
+msgid "APIXU (requires API key)"
+msgstr "meteoblue (kräver API nyckel)"
+
+#. settings-schema.json->webservice->options
+msgid "Forecast.io (requires API key)"
+msgstr "Forecast.io (Kräver API nyckel)"
+
+#. settings-schema.json->webservice->options
+msgid "weather.com (deprecated)"
+msgstr "weather.com (nedvärderad)"
+
+#. settings-schema.json->webservice->options
+msgid "meteoblue (requires API key)"
+msgstr "meteoblue (kräver API nyckel)"
+
+#. settings-schema.json->webservice->tooltip
+msgid "Select the data service you wish to use"
+msgstr "Välj den tjänsteleverantör du önskar använda"
+
+#. settings-schema.json->stationID->description
+msgid "Location"
+msgstr "Plats"
+
+#. settings-schema.json->stationID->tooltip
+msgid "Set your location here"
+msgstr "Ange din platskod här"
+
+#. settings-schema.json->apikey->description
+msgid "API key"
+msgstr "API nyckel"
+
+#. settings-schema.json->apikey->tooltip
+msgid ""
+"Required for some services only. Enter your API key for your chosen service"
+msgstr ""
+"Krävs av vissa tjänsteleverantörer. Ange din API nyckel för vald "
+"väderleverantör"
+
+#. settings-schema.json->tunits->description
+msgid "Temperature measurement unit"
+msgstr "Temperatur enhet"
+
+#. settings-schema.json->tunits->options
+msgid "Celsius"
+msgstr "Celsius"
+
+#. settings-schema.json->tunits->options
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+#. settings-schema.json->tunits->tooltip
+msgid "Measurement units used to display temperature"
+msgstr "Enhet att att visa temperaturen i"
+
+#. settings-schema.json->wunits->description
+msgid "Wind speed measurement unit"
+msgstr "Enhet för vindhastighet"
+
+#. settings-schema.json->wunits->options
+msgid "mph"
+msgstr "mph"
+
+#. settings-schema.json->wunits->options
+msgid "km/h"
+msgstr "km/h"
+
+#. settings-schema.json->wunits->options
+msgid "knots"
+msgstr "knop"
+
+#. settings-schema.json->wunits->options
+msgid "m/s"
+msgstr "m/s"
+
+#. settings-schema.json->wunits->tooltip
+msgid "Measurement units used to display wind speed"
+msgstr "Enhet som används för att visa vindhastigheten"
+
+#. settings-schema.json->punits->description
+msgid "Pressure measurement unit"
+msgstr "Mätenhet för tryck"
+
+#. settings-schema.json->punits->options
+msgid "mb"
+msgstr "mb"
+
+#. settings-schema.json->punits->options
+msgid "in (Hg)"
+msgstr "tum (i Kvicksilver)"
+
+#. settings-schema.json->punits->options
+msgid "mm (Hg)"
+msgstr "mm (i Kvicksilver)"
+
+#. settings-schema.json->punits->options
+msgid "kPa"
+msgstr "kPa"
+
+#. settings-schema.json->punits->tooltip
+msgid "Measurement units used to display atmospheric pressure"
+msgstr "Enhet som används för att visa atmosfäriskt tryck"
+
+#. settings-schema.json->userno->units
+msgid "days"
+msgstr "dagar"
+
+#. settings-schema.json->userno->description
+msgid "Show forecast for"
+msgstr "Visa prognos för"
+
+#. settings-schema.json->userno->tooltip
+msgid ""
+"The number of days of forecast to display. Note that not all services "
+"support all values"
+msgstr ""
+"Antal dagar att visa i prognosen. Notera att alla vädertjänstleverantörer "
+"inte stöder alla värden"
+
+#. settings-schema.json->refreshtime->units
+msgid "minutes"
+msgstr "minuter"
+
+#. settings-schema.json->refreshtime->description
+msgid "Refresh forecast every"
+msgstr "Uppdateringsintervall för prognosen"
+
+#. settings-schema.json->refreshtime->tooltip
+msgid ""
+"Period between refreshing forecasts. Note that not all services support "
+"lower refresh times"
+msgstr ""
+"Tidsintervallen mellan prognosuppdateringarna. Notera att alla "
+"tjänsteleverantörer inte stöder tätare uppdateringsperioder"
+
+#. settings-schema.json->display->description
+msgid ""
+"Optional items to display (not all options are supported by all services)"
+msgstr ""
+"Ytterligare objekt att visa (inte alla objekt stöds av alla "
+"tjänsteleverantörer)"
+
+#. settings-schema.json->display__meta__country->description
+msgid "Country"
+msgstr "Land"
+
+#. settings-schema.json->display__meta__country->tooltip
+msgid "Check to display the country"
+msgstr "Markera för att visa landet"
+
+#. settings-schema.json->display__cc__weather->description
+msgid "Current weather and icon"
+msgstr "Nuvarande väder och ikon"
+
+#. settings-schema.json->display__cc__weather->tooltip
+msgid "Check to display the current weather and large icon"
+msgstr "Markera för att visa nuvarande väder och stor ikon"
+
+#. settings-schema.json->display__cc__pressure->description
+msgid "Current pressure"
+msgstr "Nuvarande lufttryck"
+
+#. settings-schema.json->display__cc__pressure->tooltip
+msgid "Check to display the current pressure"
+msgstr "Markera för att visa nuvarande lufttryck"
+
+#. settings-schema.json->display__cc__humidity->description
+msgid "Current humidity"
+msgstr "Nuvarande luftfuktighet"
+
+#. settings-schema.json->display__cc__humidity->tooltip
+msgid "Check to display the current humidity"
+msgstr "Markera för att visa nuvarande luftfuktighet"
+
+#. settings-schema.json->display__cc__wind_speed->description
+msgid "Current wind"
+msgstr "Nuvarande vind"
+
+#. settings-schema.json->display__cc__wind_speed->tooltip
+msgid "Check to display the current wind"
+msgstr "Markera för att visa vindinfo"
+
+#. settings-schema.json->display__cc__feelslike->description
+msgid "Current 'feels like'"
+msgstr "Nuvarande 'känns som'"
+
+#. settings-schema.json->display__cc__feelslike->tooltip
+msgid "Check to display the current apparent temperature"
+msgstr ""
+"Markera för att visa temperatur med nuvarande vindavkylningsfaktor ('känns "
+"som')"
+
+#. settings-schema.json->display__cc__visibility->description
+msgid "Current visibility"
+msgstr "Nuvarande sikt"
+
+#. settings-schema.json->display__cc__visibility->tooltip
+msgid "Check to display the current visibility"
+msgstr "Markera för att visa nuvarande sikt"
+
+#. settings-schema.json->display__forecast__maximum_temperature->description
+msgid "Forecast maximum"
+msgstr "Visa högsta förväntade temperatur"
+
+#. settings-schema.json->display__forecast__maximum_temperature->tooltip
+msgid "Check to display the forecast maximum temperature"
+msgstr "Markera för att visa den högsta förväntade temperaturen i prognosen"
+
+#. settings-schema.json->display__forecast__minimum_temperature->description
+msgid "Forecast minimum"
+msgstr "Visa lägsta förväntade temperatur"
+
+#. settings-schema.json->display__forecast__minimum_temperature->tooltip
+msgid "Check to display the forecast minimum temperature"
+msgstr "Makera för att visa den lägsta förväntade temperaturen i prognosen"
+
+#. settings-schema.json->display__forecast__wind_speed->description
+msgid "Forecast wind speed"
+msgstr "Visa vindhastighet"
+
+#. settings-schema.json->display__forecast__wind_speed->tooltip
+msgid "Check to display the forecast wind speed"
+msgstr "Markera för att visa vindhastighet"
+
+#. settings-schema.json->display__forecast__wind_direction->description
+msgid "Forecast wind direction"
+msgstr "Visa vindrikting"
+
+#. settings-schema.json->display__forecast__wind_direction->tooltip
+msgid "Check to display the forecast wind direction"
+msgstr "Markera för att visa vindriktingen"
+
+#. settings-schema.json->display__forecast__pressure->description
+msgid "Forecast pressure"
+msgstr "Visa lufttryck"
+
+#. settings-schema.json->display__forecast__pressure->tooltip
+msgid "Check to display the forecast pressure"
+msgstr "Markera för att visa lufttryck"
+
+#. settings-schema.json->display__forecast__humidity->description
+msgid "Forecast humidity"
+msgstr "Visa luftfuktighet"
+
+#. settings-schema.json->display__forecast__humidity->tooltip
+msgid "Check to display the forecast humidity"
+msgstr "Markera för att visa luftfuktigheten"
+
+#. settings-schema.json->styling->description
+msgid "Desklet style"
+msgstr "Stil på miniprogrammet"
+
+#. settings-schema.json->zoom->units
+msgid "times"
+msgstr "gånger"
+
+#. settings-schema.json->zoom->description
+msgid "Zoom by"
+msgstr "Zooma"
+
+#. settings-schema.json->zoom->tooltip
+msgid "Change the size of the desklet"
+msgstr "Ändra storleken på miniprogrammet"
+
+#. settings-schema.json->layout->description
+msgid "Layout"
+msgstr "Upplägg"
+
+#. settings-schema.json->layout->options
+msgid "Horizontal"
+msgstr "Horisontellt"
+
+#. settings-schema.json->layout->options
+msgid "Vertical"
+msgstr "Vertikalt"
+
+#. settings-schema.json->layout->tooltip
+msgid "Set the overall layout of the desklet"
+msgstr "Justera upplägget för detta miniprogram"
+
+#. settings-schema.json->iconstyle->description
+msgid "Icon style"
+msgstr "Ikonstil"
+
+#. settings-schema.json->iconstyle->options
+msgid "Colorful"
+msgstr "Färggrann"
+
+#. settings-schema.json->iconstyle->options
+msgid "Dark"
+msgstr "Mörk"
+
+#. settings-schema.json->iconstyle->options
+msgid "Light"
+msgstr "Ljus"
+
+#. settings-schema.json->iconstyle->options
+msgid "Flat colorful"
+msgstr "Flat färggrann"
+
+#. settings-schema.json->iconstyle->options
+msgid "Flat black"
+msgstr "Flat svart"
+
+#. settings-schema.json->iconstyle->options
+msgid "Flat white"
+msgstr "Flat vit"
+
+#. settings-schema.json->iconstyle->options
+msgid "VClouds"
+msgstr "VClouds"
+
+#. settings-schema.json->iconstyle->options
+msgid "Novacon"
+msgstr "Novacon"
+
+#. settings-schema.json->iconstyle->options
+msgid "Weezle"
+msgstr "Weezle"
+
+#. settings-schema.json->iconstyle->options
+msgid "Meteocons 1"
+msgstr "Meteocons 1"
+
+#. settings-schema.json->iconstyle->options
+msgid "Meteocons 2"
+msgstr "Meteocons 2"
+
+#. settings-schema.json->iconstyle->options
+msgid "Sketchy"
+msgstr "Sketchy"
+
+#. settings-schema.json->iconstyle->options
+msgid "User defined"
+msgstr "Användardefinierat"
+
+#. settings-schema.json->iconstyle->tooltip
+msgid "Select the style for the weather icons"
+msgstr "Välj stil på väderikonerna"
+
+#. settings-schema.json->citystyle->description
+msgid "Bold city name"
+msgstr "Ortnamn med Fet Stil"
+
+#. settings-schema.json->citystyle->tooltip
+msgid "Check to display the city name in bold"
+msgstr "Markera för att visa ortnamnet med fet stil"
+
+#. settings-schema.json->overrideTheme->description
+msgid "Override desktop theme (enables the settings below)"
+msgstr "Förbigå skrivbordstemat (aktiverar inställningarna nedan)"
+
+#. settings-schema.json->overrideTheme->tooltip
+msgid ""
+"Check this to override the desktop theme and configure the appearance "
+"manually"
+msgstr ""
+"Markera för att förbigå skrivbordstemat och ställa in utseendet manuellt"
+
+#. settings-schema.json->transparency->description
+msgid "Transparency"
+msgstr "Genomskinlighet"
+
+#. settings-schema.json->transparency->tooltip
+msgid "Set the transparency of the desklet"
+msgstr "Ställ in genomskinligheten på miniprogrammet"
+
+#. settings-schema.json->textcolor->description
+msgid "Text color"
+msgstr "Textfärg"
+
+#. settings-schema.json->textcolor->tooltip
+msgid "Click the button to select a new text color"
+msgstr "Klicka på knappen för att välja en ny textfärg"
+
+#. settings-schema.json->textshadow->description
+msgid "Text shadow"
+msgstr ""
+
+#. settings-schema.json->textshadow->tooltip
+msgid "Check to add a text shadow"
+msgstr ""
+
+#. settings-schema.json->shadowblur->units
+#. settings-schema.json->cornerradius->units
+#. settings-schema.json->borderwidth->units
+msgid "px"
+msgstr "pixlar"
+
+#. settings-schema.json->shadowblur->description
+msgid "Shadow blur radius"
+msgstr ""
+
+#. settings-schema.json->shadowblur->tooltip
+msgid "Set the text shadow sharp (1) or blurry (2-7)"
+msgstr ""
+
+#. settings-schema.json->bgcolor->description
+msgid "Background color"
+msgstr "Bakgrundsfärg"
+
+#. settings-schema.json->bgcolor->tooltip
+msgid "Click the button to select a new background color"
+msgstr "Klicka på knappen för att välja en ny bakgrundsfärg"
+
+#. settings-schema.json->cornerradius->description
+msgid "Corner radius"
+msgstr "Hörnradie"
+
+#. settings-schema.json->cornerradius->tooltip
+msgid "Radius for rounding the desklet's corners"
+msgstr "Radie för avrundning av miniprogrammets hörn"
+
+#. settings-schema.json->border->description
+msgid "Show border"
+msgstr "Visa kantdekoration"
+
+#. settings-schema.json->border->tooltip
+msgid "Check this to turn border on/off"
+msgstr "Markera för att visa/dölja kantdekoration"
+
+#. settings-schema.json->bordercolor->description
+msgid "Border color"
+msgstr "Kantfärg"
+
+#. settings-schema.json->bordercolor->tooltip
+msgid ""
+"Select the color for the border. Only available if the 'Border' checkbox is "
+"enabled"
+msgstr ""
+"Välj färg för kantdekorationen. Endast tillgängligt om 'Kantdekoration' är "
+"aktiverat"
+
+#. settings-schema.json->borderwidth->description
+msgid "Border width"
+msgstr "Bredd på kantdekorering"
+
+#. settings-schema.json->borderwidth->tooltip
+msgid ""
+"Select the width of the border. Only available if the 'Border' checkbox is "
+"enabled"
+msgstr ""
+"Ställ in bredden på kantdekoreringen. Endast tillgängligt om du markerat "
+"kryssrutan för kantdekorering"
+
+#. settings-schema.json->locationlookups->description
+msgid "Location display settings"
+msgstr "Inställning för platsvisning"
+
+#. settings-schema.json->locsrc->description
+msgid "Get displayed location from"
+msgstr "Erhåll visad plats från"
+
+#. settings-schema.json->locsrc->options
+msgid "Google"
+msgstr "Google"
+
+#. settings-schema.json->locsrc->tooltip
+msgid ""
+"The source of the text displayed as the current location. Yahoo! and Google "
+"may offer city names in other languages"
+msgstr ""
+"Källan för texten som visas för nuvarande plats. Yahoo! och Google kan "
+"möjligen erbjuda stadsnamn på andra språk"
+
+#. settings-schema.json->manuallocation->description
+msgid "Manually override displayed location"
+msgstr "Förbigå namnet för den visade platsen manuellt"
+
+#. settings-schema.json->manuallocation->tooltip
+msgid "Set your city name manually."
+msgstr "Ange namnet på din plats manuellt."
+
+#. settings-schema.json->experimental->description
+msgid "Experimental and buggy features (read documentation!!)"
+msgstr "Experimentella och buggiga funktioner (läs dokumentation!!)"
+
+#. settings-schema.json->experimental_enabled->description
+msgid "Enable experimental features"
+msgstr "Aktivera experimentella funktioner"
+
+#. settings-schema.json->experimental_enabled->tooltip
+msgid "Check this to enable experimental and buggy features"
+msgstr "Markera denna för att aktivera experimentella och buggiga funktioner"
+
+#. settings-schema.json->gravity->description
+msgid "Anchor desklet by"
+msgstr "Förankra miniprogrammet till"
+
+#. settings-schema.json->gravity->options
+msgid "Default"
+msgstr "Förvalt"
+
+#. settings-schema.json->gravity->options
+msgid "Top left"
+msgstr "Överst till vänster"
+
+#. settings-schema.json->gravity->options
+msgid "Left center"
+msgstr "Till vänster i mitten"
+
+#. settings-schema.json->gravity->options
+msgid "Bottom left"
+msgstr "Nederst till vänster"
+
+#. settings-schema.json->gravity->options
+msgid "Bottom center"
+msgstr "Nederst i mitten"
+
+#. settings-schema.json->gravity->options
+msgid "Bottom right"
+msgstr "Nederst till höger"
+
+#. settings-schema.json->gravity->options
+msgid "Right center"
+msgstr "Till höger i mitten"
+
+#. settings-schema.json->gravity->options
+msgid "Top right"
+msgstr "Överst till höger"
+
+#. settings-schema.json->gravity->options
+msgid "Top center"
+msgstr "Överst i mitten"
+
+#. settings-schema.json->gravity->tooltip
+msgid ""
+"Select the point on the desklet to which it is anchored. This point will "
+"remain static as the desklet grows and shrinks"
+msgstr ""
+"Välj punkten på miniprogrammet som ska förankras. Denna punkt förblir "
+"statisk när miniprogrammet växer och krymper"
